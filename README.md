@@ -1,6 +1,6 @@
 # ⚔️ THBD Site Cloner
 
-> A powerful website cloning and sensitive file discovery tool made by [THBD](https://github.com/thbdsec) for professional recon, LFI hunting, and pentesting use.  
+> A powerful website cloning and sensitive file discovery tool made by [MrZico69](https://github.com/mrzico69) for professional recon, LFI hunting, and pentesting use.  
 > 💥 Designed to work with auto-updating raw wordlists and minimal CLI, with optional custom wordlist support. Built for both Termux & Linux.
 
 ---
